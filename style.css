@@ -2,6 +2,21 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;  
     padding: 0;
-    background-color: #7ca18d;
-
+    background-color: #c62e19;
+}   
+header {
+    background-color: #cbb91e;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+main {
+    padding: 20px;
+    background-color: #10e749;
+}
+footer {
+    background-color: #1f1c05;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
 }
